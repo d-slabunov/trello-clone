@@ -47,7 +47,7 @@
     "chai": "^4.2.0",
     "eslint-config-airbnb": "^17.1.1",
     "mocha": "^6.2.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "proxy": "http://192.168.0.16:3111"
 }
